@@ -3,8 +3,8 @@ import logoImg from "./assets/images/logo/logo1.png";
 // details
 export const companyDetails = {
   logo: logoImg,
-  phone: "+917012154488",
-  email: "example@domain.com",
+  phone: "+919059797776",
+  email: "kurravijayendra@gmail.com",
   location:
     "Flat no12, creative nestle apartments, kamla nagar, hyderabad, 500083",
 };
