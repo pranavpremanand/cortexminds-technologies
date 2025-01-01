@@ -32,7 +32,7 @@ const Banner = () => {
         >
           <p className="bg-[#ECECF2] p-1 text-gray-900 text-sm">IT Services</p>
           <h1 className="text-[2.5rem] md:text-5xl font-bold leading-tight">
-            Cortexminds Technologies LLP - Shaping the Future with Innovative
+            Cortexminds Technologies - Shaping the Future with Innovative
             and Intelligent Solutions
           </h1>
           <p className="text-sm text-gray-500">

@@ -40,7 +40,7 @@ const Testimonials = () => {
             Clients Feedback Examples You
           </h2>
           <p className="text-gray-600 text-sm mb-5 max-w-[30rem] text-center lg:text-start">
-            At Cortexminds Technologies LLP, we take pride in the success of our clients. Here's what
+            At Cortexminds Technologies, we take pride in the success of our clients. Here's what
             some of them have to say about their experience working with us:
           </p>
           <img

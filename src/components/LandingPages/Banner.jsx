@@ -36,9 +36,9 @@ const Banner = ({ page }) => {
           </p>
           <h1 className="text-[2.5rem] md:text-5xl font-bold leading-tight">
             {page === "web-development" &&
-              "Cortexminds Technologies LLP - Pioneering Tomorrow with Cutting-Edge AI Innovations"}
+              "Cortexminds Technologies - Pioneering Tomorrow with Cutting-Edge AI Innovations"}
             {page === "app-development" &&
-              "Cortexminds Technologies LLP - Transforming Your Business with Innovative App Development Solutions"}
+              "Cortexminds Technologies - Transforming Your Business with Innovative App Development Solutions"}
           </h1>
           <p className="text-sm text-gray-500">
             {page === "web-development" &&

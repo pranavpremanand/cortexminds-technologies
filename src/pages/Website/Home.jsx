@@ -26,9 +26,9 @@ const Banner = React.lazy(() => import("../../components/Website/Banner"));
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  name: "Cortexminds Technologies LLP",
+  name: "Cortexminds Technologies",
   description:
-    "Cortexminds Technologies LLP is a globally recognized leader in delivering cutting-edge technology solutions including AI, Machine Learning, Blockchain, and Cloud Computing.",
+    "Cortexminds Technologies is a globally recognized leader in delivering cutting-edge technology solutions including AI, Machine Learning, Blockchain, and Cloud Computing.",
   image: companyDetails.logo,
   address: {
     "@type": "PostalAddress",
@@ -45,12 +45,12 @@ const Home = () => {
     <>
       <Helmet>
         <title>
-          Cortexminds Technologies LLP - Leading AI & Technology Solutions
+          Cortexminds Technologies - Leading AI & Technology Solutions
           Provider | Custom Software Development
         </title>
         <meta
           name="description"
-          content="Cortexminds Technologies LLP offers cutting-edge AI, Machine Learning, and Blockchain solutions. Transform your business with our custom software development and technology consulting services."
+          content="Cortexminds Technologies offers cutting-edge AI, Machine Learning, and Blockchain solutions. Transform your business with our custom software development and technology consulting services."
         />
         <meta
           name="keywords"
@@ -60,11 +60,11 @@ const Home = () => {
         {/* Open Graph Tags */}
         <meta
           property="og:title"
-          content="Cortexminds Technologies LLP - Leading AI & Technology Solutions Provider"
+          content="Cortexminds Technologies - Leading AI & Technology Solutions Provider"
         />
         <meta
           property="og:description"
-          content="Transform your business with cutting-edge AI, Machine Learning, and Blockchain solutions from Cortexminds Technologies LLP."
+          content="Transform your business with cutting-edge AI, Machine Learning, and Blockchain solutions from Cortexminds Technologies."
         />
         <meta property="og:image" content={aboutImg} />
 
@@ -72,7 +72,7 @@ const Home = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Cortexminds Technologies LLP - Leading AI & Technology Solutions Provider"
+          content="Cortexminds Technologies - Leading AI & Technology Solutions Provider"
         />
         <meta
           name="twitter:description"
@@ -109,7 +109,7 @@ const Home = () => {
                   src={whoWeAre}
                   width="500"
                   height="400"
-                  alt="Cortexminds Technologies LLP company overview"
+                  alt="Cortexminds Technologies company overview"
                   className="rounded-lg h-[20rem] md:h-full md:max-h-[25rem] w-full object-cover object-right"
                 />
                 <div className="w-full sm:w-fit sm:max-w-[18rem] text-white h-full sm:h-fit absolute md:-bottom-[5rem] bottom-0 left-0 bg-primary/70 sm:bg-primary p-5 rounded-lg">
@@ -125,11 +125,11 @@ const Home = () => {
               </div>
               <div data-aos="fade-right" className="flex flex-col gap-5">
                 <h2 className="heading-2">
-                  Welcome to Cortexminds Technologies LLP – Pioneering Digital
+                  Welcome to Cortexminds Technologies – Pioneering Digital
                   Innovation
                 </h2>
                 <p>
-                  At Cortexminds Technologies LLP, we bring together creativity,
+                  At Cortexminds Technologies, we bring together creativity,
                   technology, and strategy to deliver cutting-edge solutions
                   tailored to your business needs. Whether you’re a growing
                   startup or an established enterprise, we’re here to help you
@@ -163,7 +163,7 @@ const Home = () => {
                 What We Offer
               </h1>
               <p data-aos="fade-up" className="text-center max-w-2xl">
-                At Cortexminds Technologies LLP, we offer a full range of
+                At Cortexminds Technologies, we offer a full range of
                 advanced technology services designed to empower businesses with
                 scalable, intelligent, and secure solutions.
               </p>

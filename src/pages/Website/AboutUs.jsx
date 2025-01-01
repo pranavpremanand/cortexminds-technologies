@@ -43,7 +43,7 @@ const AboutUs = () => {
               The world’s IT networking company.
             </h2>
             <p className="mt-6">
-              At Cortexminds Technologies LLP, we bring together creativity,
+              At Cortexminds Technologies, we bring together creativity,
               technology, and strategy to deliver cutting-edge solutions
               tailored to your business needs. Whether you’re a growing startup
               or an established enterprise, we’re here to help you navigate and

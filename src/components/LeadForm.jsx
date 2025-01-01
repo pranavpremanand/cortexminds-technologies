@@ -34,7 +34,7 @@ const LeadForm = () => {
     // Construct the request payload
     var payload = {
       to: companyDetails.email,
-      subject: "You have a new message from Cortexminds Technologies LLP",
+      subject: "You have a new message from Cortexminds Technologies",
       body: emailBody,
     };
 
