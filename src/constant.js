@@ -7,6 +7,10 @@ export const companyDetails = {
   email: "kurravijayendra@gmail.com",
   location:
     "Flat no12, creative nestle apartments, kamla nagar, hyderabad, 500083",
+  facebook: "https://www.facebook.com/profile.php?id=61571370135610",
+  twitter: "https://x.com/CortexMinds",
+  instagram: "https://www.instagram.com/cortexmindstechnologies/",
+  linkedin: "https://www.linkedin.com/company/cortexminds-technologies/",
 };
 
 export const landingPageNavLinks = [
