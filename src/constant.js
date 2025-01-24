@@ -4,9 +4,9 @@ import logoImg from "./assets/images/logo/logo1.png";
 export const companyDetails = {
   logo: logoImg,
   phone: "+919059797776",
-  email: "kurravijayendra@gmail.com",
+  email: "ceocortexmindstechnologies@gmail.com",
   location:
-    "Flat no12, creative nestle apartments, kamla nagar, hyderabad, 500083",
+    "Flat No. 12, creative nestle apartments, kamla nagar, hyderabad, 500083",
   facebook: "https://www.facebook.com/profile.php?id=61571370135610",
   twitter: "https://x.com/CortexMinds",
   instagram: "https://www.instagram.com/cortexmindstechnologies/",
