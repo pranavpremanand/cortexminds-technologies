@@ -136,7 +136,7 @@ const Home = () => {
                   navigate and thrive in the digital era.
                 </p>
                 <Link to="/about-us" className="primary-btn mt-7 w-fit">
-                  Know More About Us
+                  Know More
                 </Link>
               </div>
             </div>
