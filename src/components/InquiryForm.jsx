@@ -36,11 +36,12 @@ const InquiryForm = () => {
     // Construct the request payload
     var payload = {
       to: companyDetails.email,
-      subject: "You have a new message from Cortexminds Technologies",
+      subject: values.subject,
       body: emailBody,
+      name:"Cortexmind Technologies"
     };
 
-    await fetch("https://smtp-api-tawny.vercel.app/send-email", {
+    await fetch("https://send-mail-redirect-boostmysites.vercel.app/send-email", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
